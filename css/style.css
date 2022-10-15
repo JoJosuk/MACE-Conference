@@ -1,0 +1,14 @@
+:root{
+    --bs-orange: #FF4D00
+}
+
+.nav-link {
+    color: white;
+}
+.nav-link:hover {
+    color: var(--bs-orange)
+}
+
+/* .banner-video {
+    border-radius: 2px;
+} */
